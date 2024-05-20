@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ondřej Zelený, Im a Ph.D. candicate at department of radio electronics (DREL) at FEKT BUT. 
+My name is Ondřej Zelený, Im a Ph.D. candicate at Department of Radio Electronics (DREL) at FEKT BUT. 
 <!--
 **zeleny-ondrej/zeleny-ondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
